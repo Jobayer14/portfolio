@@ -1,0 +1,19 @@
+
+
+
+/* common style */
+nav{
+    display: flex;
+    align-items: 
+}
+    
+nav ul li{
+    list-style: none;
+    
+
+
+}
+nav a{
+    text-decoration: none;
+}
+
